@@ -1,4 +1,4 @@
-# Other Backgroudn
+# Other Background
 This folder contains additional background reading from the history of Stanford Law School.
 
 * “A Brief History of Stanford Law School 1893-1946” by Marion Kirkwood and William Owens.
