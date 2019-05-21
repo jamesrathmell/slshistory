@@ -1,7 +1,7 @@
 |Document|Description|
 |---|---|
 |1L Curriculum 1899-1950|Summarizes changes to 1L curriculum|
-|Summarizes changes to 1L curriculum|Summarizes 1L curriculum|
+|1L Schedules 1899-1950.doc|Summarizes 1L curriculum|
 |Bulletin Summaries 1899-1951|Summarizes bulletin contents, such as tuition and housing *Note: Mostly comprised of faculty and staff information (redundant with Law School Faculty 1899-1953) and curriculum changes (redundant with 1L Curriculum 1899-1950)*|
 |Deans 1893-2004|Tenures of SLS deans|
 |Law School Faculty 1899-1920|List of faculty and staff, with more biographical information than Law School Faculty 1899-1953 *Deprecated: see*|
