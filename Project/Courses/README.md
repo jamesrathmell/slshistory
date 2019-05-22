@@ -11,3 +11,5 @@ One promising area for future research would be to explore how the curriculum ch
 * While all of the course sessions are listed, the dataset is incomplete as to first-year offerings, terms, and course descriptions.
 
 * In some cases, courses were listed in the bulletin for a given year, but were marked as not being offered. These are not included in the dataset.
+
+* Where multiple instructors taught one session of the course, they are listed together. Where instructors taught different sections, they are listed separately.
