@@ -1,3 +1,7 @@
+# Project Documents
+
+This file contains the below documents, compiled by Sarah Wilson.
+
 |Document|Description|
 |---|---|
 |1L Curriculum 1899-1950|Summarizes changes to 1L curriculum|
