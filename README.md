@@ -7,7 +7,7 @@ In 2009, Professor Hank Greely found a trove of bulletins and set about digitizi
 
 This repository contains the bulletins, background data, and additional resources on the project.
 
-For more information, including interactive visualizations of the data, please visit the [website for the project](www.slshistory.com).
+For more information, including interactive visualizations of the data, please visit the [website for the project](https://www.slshistory.com).
 
 
 ## Project Repository
