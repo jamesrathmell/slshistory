@@ -5,9 +5,10 @@ For 100 years, from 1899 to 1998, Stanford Law School published annual bulletins
 
 In 2009, Professor Hank Greely found a trove of bulletins and set about digitizing them. Research Assistants Sarah Wilson (2013) and James Rathmell (2016, 2019) investigated the contents of the bulletins and began extracting data in an analyzable format.
 
-This readme summarizes the objectives of the project to date, the contents of the associated repository, and the progress that Wilson and Rathmell made on the project through 2019. It then proposes future areas for research.
+This repository contains the bulletins, background data, and additional resources on the project.
 
-## Project Scope
+For more information, including interactive visualizations of the data, please visit the [website for the project](www.slshistory.com).
+
 
 ## Project Repository
 
@@ -30,12 +31,4 @@ The project repository contains the following files.
   * “Who Stole the President’s Wine?” by Howard Bromberg
   * “A Brief History of Stanford Law School” from the 1968 Seventy-Fifth Anniversary Yearbook
   * Stanford Lawyer Winter 1967 Issue, featuring Message from the Dean about seven professors emeriti
-
   * Summary of Bromberg articles.
-  
- ## Progress to Date
- 
- Information about Progress to Date
- 
- ### Documents
- Information about Documents
