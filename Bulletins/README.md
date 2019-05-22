@@ -20,3 +20,5 @@ Promising areas for future data extraction and visualization are:
 * How have the geographic and academic origins of Stanford Law students changed over time? (See [Students](https://github.com/jamesrathmell/slshistory/tree/master/Bulletins/Students) folder for more information.)
 * How have scholarships and tuition changed over time?
 * How have admissions requirements changed over time?
+* How has the curriculum changed over time?
+* How have first-year requirements changed over time?
