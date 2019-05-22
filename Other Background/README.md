@@ -7,3 +7,5 @@ This folder contains additional background reading from the history of Stanford 
 * “The Making of a Law School: Lofty goals, a hammer-wielding leader, and a measure of serendipity helped bring Stanford Law School into being” by Howard Bromberg
 * “Who Stole the President’s Wine?” by Howard Bromberg
 * Summary of Bromberg articles.
+
+You can also find additional resources on the [site for this project](http://www.slshistory.com).
