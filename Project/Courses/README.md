@@ -5,3 +5,9 @@ The two datasets contained here provide the full listing of courses taught at th
 You can explore the timeline of courses at [the site for this project](https://slshistory.weebly.com/courses.html).
 
 One promising area for future research would be to explore how the curriculum changed over time, both in terms of the required first-year curriculum, and in terms of how new subjects were introduced (e.g. environmental law, critical legal theory) while old ones were retired (e.g. mines and irrigation, pleadings).
+
+## Notes
+
+* While all of the course sessions are listed, the dataset is incomplete as to first-year offerings, terms, and course descriptions.
+
+* In some cases, courses were listed in the bulletin for a given year, but were marked as not being offered. These are not included in the dataset.
