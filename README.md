@@ -21,4 +21,4 @@ The project repository contains the following files.
   * [**Courses.**](https://github.com/jamesrathmell/slshistory/tree/master/Projects/Courses) Datasets on course offerings.
   * [**Documents.**](https://github.com/jamesrathmell/slshistory/tree/master/Project/Documents) High-level summaries of information contained in bulletins, compiled by Sarah Wilson.
 
-* **Other Background.** Related background documents on SLS history.
+* [**Other Background.**](https://github.com/jamesrathmell/slshistory/tree/master/Other%20Background) Related background documents on Stanford Law School history.
