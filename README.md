@@ -1,9 +1,13 @@
 # Stanford Law School History Project
 
 ## Overview
-For 100 years, from 1899 to 1998, Stanford Law School published annual bulletins containing key information about the upcoming academic year. These bulletins are rich with background on faculty, staff, and students; lists of course offerings (often with descriptions and assigned textbooks); and other administrative miscellanea (e.g. annual tuition, admissions requirements). These bulletins paint a picture of one law school as it changed over the years; but they also paint a picture of the changing nature of legal education—and the changing character of those who decided to study law over the years, both as students and academics.
+For 100 years, from 1899 to 1998, Stanford Law School published annual bulletins containing key information about the upcoming academic year. These bulletins are rich with background on faculty, staff, and students; lists of course offerings (often with descriptions and assigned textbooks); and other administrative miscellanea (e.g. annual tuition, admissions requirements).
+
+The bulletins paint a picture of one American law school as it changed over the 20th Century. But they also paint a picture of the changing nature of legal education, and the changing character of those who chose to study law as students and academics.
 
 In 2009, Professor Hank Greely found a trove of bulletins and set about digitizing them. Research Assistants Sarah Wilson (2013) and James Rathmell (2016, 2019) investigated the contents of the bulletins and began extracting data in an analyzable format.
+
+This readme summarizes the objectives of the project to date, the contents of the associated repository, and the progress that Wilson and Rathmell made on the project through 2019. It then proposes areas for research.
 
 This repository contains the bulletins, background data, and additional resources on the project.
 
