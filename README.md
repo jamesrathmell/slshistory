@@ -5,7 +5,7 @@ For 100 years, from 1899 to 1998, Stanford Law School published annual bulletins
 
 The bulletins paint a picture of one American law school as it changed over the 20th Century. But they also paint a picture of the changing nature of legal education, and the changing character of those who chose to study law as students and academics.
 
-In 2009, Professor Hank Greely found a trove of bulletins and set about digitizing them. Research Assistants Sarah Wilson (2013) and James Rathmell (2016, 2019) investigated the contents of the bulletins and began extracting data in an analyzable format.
+In 2009, Professor Hank Greely found a trove of bulletins and set about digitizing them. Library Archivist Sarah Wilson (2013) and Research Assistant James Rathmell (2016, 2019) investigated the contents of the bulletins and began extracting data in an analyzable format.
 
 This readme summarizes the objectives of the project to date, the contents of the associated repository, and the progress that Wilson and Rathmell made on the project through 2019. It then proposes areas for research.
 
